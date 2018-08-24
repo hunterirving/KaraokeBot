@@ -16,7 +16,9 @@ Since I was using a <a href="https://www.image-line.com/flstudio/">DAW</a> to pr
 
 <img src="https://github.com/hunterirving/KaraokeBot/blob/master/itlives2.gif" width="62%">
 
-Using an Arduino as a MIDI output device, we can listen for MIDI Note On (<a href="https://www.midi.org/specifications-old/item/table-1-summary-of-midi-message">1001nnnn</a>) and Note Off (<a href="https://www.midi.org/specifications-old/item/table-1-summary-of-midi-message">1000nnnn</a>) Events and use them to control a 9g servo motor; _Note On_ to open the mouth, and _Note Off_ to close it. Pitch and velocity were ignored for this project, but I could see them being useful for other applications.
+Using an Arduino as a MIDI output device, we can listen for MIDI Note On (<a href="https://www.midi.org/specifications-old/item/table-1-summary-of-midi-message">1001nnnn</a>) and Note Off (<a href="https://www.midi.org/specifications-old/item/table-1-summary-of-midi-message">1000nnnn</a>) Events and use them to control a 9g servo motor; _Note On_ to open the mouth, and _Note Off_ to close it.
+
+Pitch and velocity were ignored for this project, but I could see them being useful for other applications.
 
 ## _KaraokeBot: The Making Of_
 
