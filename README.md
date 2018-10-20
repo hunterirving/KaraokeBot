@@ -26,3 +26,9 @@ Pitch and velocity were ignored for this project, but I could see them being use
 
 <a href="https://www.youtube.com/watch?v=IbHfiO7Sy8U
 " target="_blank"><img src="http://img.youtube.com/vi/IbHfiO7Sy8U/0.jpg" width="240" height="180" border="10" /></a>
+
+<br>
+
+## _BONUS: KaraokeBot's Debut Album_
+
+Streaming now on <a href="https://soundcloud.com/hunter-irving/sets/karaokebot">soundcloud</a>.
